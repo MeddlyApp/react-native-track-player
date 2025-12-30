@@ -1,3 +1,7 @@
+# [4.1.7](https://github.com/doublesymmetry/react-native-track-player) (2025-12-30)
+
+- **android:** Fixes `Argument type mismatch: actual type is 'Bundle?', but 'Bundle' was expected.` bug. 
+
 # [4.1.1](https://github.com/doublesymmetry/react-native-track-player/compare/v4.1.0...v4.1.1) (2024-03-26)
 
 - **RN:** Fixes an issue when using local assets in release builds
